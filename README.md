@@ -23,5 +23,4 @@ The issue occurs when:
 
 ## Feedback
 This issue has been reported to Apple via Feedback Assistant.
-**Feedback ID:** FB18334791  
-**Apple Developer Forum thread:** https://developer.apple.com/forums/thread/779255
+**Feedback ID:** FB18334791

@@ -20,3 +20,8 @@ The issue occurs when:
 - Using NSManagedObject
 - Setting `NSPersistentStoreStagedMigrationManagerOptionKey`
 - Fetching or saving entities to the managed object context
+
+## Feedback
+This issue has been reported to Apple via Feedback Assistant.
+**Feedback ID:** FB18334791  
+**Apple Developer Forum thread:** https://developer.apple.com/forums/thread/779255
